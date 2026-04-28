@@ -9,11 +9,11 @@ We provide algorithms working in:
 
 - the central differential privacy model
 
-Frugal-2U with Sample and Aggregate mechanism;
+  - Frugal-2U with Sample and Aggregate mechanism;
 
 - the local differential privacy model
 
-Frugal_1U with Randomized Response mechanism;
-Frugal_2U with Square Wave mechanism;
-EasyQuantile with Square Wave mechanism;
-LDPQ.
+  - Frugal_1U with Randomized Response mechanism;
+  - Frugal_2U with Square Wave mechanism;
+  - EasyQuantile with Square Wave mechanism;
+  - LDPQ.
